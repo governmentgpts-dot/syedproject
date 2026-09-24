@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <body>
+            <script>
+                const person={
+                    fname="john";
+                    lname="deo";
+                    language="english";
+                    get lang(){
+                        return this.language
+                    }
+                }
+            </script>
+        </body>
+    </head>
+</html>
